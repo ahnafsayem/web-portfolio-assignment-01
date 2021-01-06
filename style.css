@@ -1,0 +1,27 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+.menue{
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    width: 319px;
+    height: 24px;
+    left: 979px;
+    top: 37px;
+}
+ul{ 
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+li{
+    display: inline;
+    margin-right:20px;
+    font-weight: 700;
+}
+.menue-link{
+    text-decoration: none;
+    color: black;
+}
