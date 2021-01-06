@@ -88,32 +88,66 @@ h2{
     line-height: 48px;
     padding-bottom: 10px;
 }
-}
 .boxes{
-    box-shadow: 10px 10px 40px gray;
+    text-align:center;
+    width: 30%;
+    float: left;
+    height: 80%;
+    margin-left:2.5%;
+    box-shadow: 5px 5px 20px lightgray;
     border-radius: 10px;
-    height: 70%;
-    padding: 25px;
+    padding:5px 5px;
+    padding-top: 20px;
     background-color: white;
 }
-#first-box{
-    position: absolute;
-    width: 370px;
-    height: 374px;
-    left: 135px;
-    top: 1454px;
+h5{ 
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight:bold;
+    font-size: 24px;
+    line-height: 28px;
 }
-#second-box{
-    position: absolute;
-    width: 370px;
-    height: 374px;
-    left: 535px;
-    top: 1454px;
+.third-part{
+    text-align: left;
+    font-family: Roboto;
+    color: #6C6C6C;
 }
-#third-box{
-    position: absolute;
-    width: 370px;
-    height: 374px;
-    left: 935px;
-    top: 1454px;
+.last-part{
+    background-image: url(images/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:80%;
+    border-radius: 30%;
+}
+.half-width-last{
+        text-align:center;
+        width: 40%;
+        float: left;
+        padding: 3%;
+        margin-left: 2%;
+        margin-right: 2%;
+        margin-top: 280px;
+}
+#words{
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 64px;
+    color:white;
+}
+#chat-link{
+    margin-top:350px;
+}
+.icons{
+    text-align: center;
+}
+.last-words{
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 64px;
+    color:gray;
 }
