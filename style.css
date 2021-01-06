@@ -25,3 +25,95 @@ li{
     text-decoration: none;
     color: black;
 }
+section{
+    height:600px;
+    padding-bottom:200px;
+}
+h3{
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 90px;
+    line-height:90px;
+}
+.navy-blue-highlight{
+    color: rgb(10, 46, 75);
+}
+.orange-highlight{
+    color:salmon;
+}
+.half-width{
+    text-align: left ;
+    width: 30%;
+    float: left;
+    padding: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 16px;
+    height: 24px;
+    padding-bottom:25px;
+    margin-bottom:80px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, salmon, tomato);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10%;
+    font-weight: 700;
+    font-size: 15px;
+}
+h2{
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 48px;
+}
+.working-projects{
+    background: #E5E5E5;
+    padding-top: 80px;
+}
+#third-heading{
+    text-align: center;
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 48px;
+    padding-bottom: 10px;
+}
+}
+.boxes{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 70%;
+    padding: 25px;
+    background-color: white;
+}
+#first-box{
+    position: absolute;
+    width: 370px;
+    height: 374px;
+    left: 135px;
+    top: 1454px;
+}
+#second-box{
+    position: absolute;
+    width: 370px;
+    height: 374px;
+    left: 535px;
+    top: 1454px;
+}
+#third-box{
+    position: absolute;
+    width: 370px;
+    height: 374px;
+    left: 935px;
+    top: 1454px;
+}
