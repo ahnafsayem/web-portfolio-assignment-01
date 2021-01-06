@@ -143,11 +143,22 @@ h5{
 .icons{
     text-align: center;
 }
-.last-words{
+#last-words{
     font-family: Bebas Neue;
-    font-style: normal;
     font-weight: bold;
-    font-size: 64px;
-    line-height: 64px;
-    color:gray;
+    font-size: 35px;
+    line-height: 35px;
+    padding: 0;
+    margin: 15px;
+}
+#last-link{
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 40px;
+    padding: 0;
+    margin: 25px;
+}
+#small-icons{
+    margin-top: 50px;
 }
