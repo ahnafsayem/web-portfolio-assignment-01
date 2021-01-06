@@ -27,7 +27,7 @@ li{
 }
 section{
     height:600px;
-    padding-bottom:200px;
+    padding-bottom:150px;
 }
 h3{
     font-family: Bebas Neue;
@@ -35,6 +35,8 @@ h3{
     font-weight: normal;
     font-size: 90px;
     line-height:90px;
+    margin-top: 2px;
+    margin-bottom: 2px;
 }
 .navy-blue-highlight{
     color: rgb(10, 46, 75);
@@ -142,6 +144,7 @@ h5{
 }
 .icons{
     text-align: center;
+    height:100px;
 }
 #last-words{
     font-family: Bebas Neue;
@@ -150,10 +153,12 @@ h5{
     line-height: 35px;
     padding: 0;
     margin: 15px;
+    color: gray;
 }
 #last-link{
     font-family: Roboto;
     font-weight: 700;
+    width: 700;
     font-size: 40px;
     line-height: 40px;
     padding: 0;
@@ -161,4 +166,36 @@ h5{
 }
 #small-icons{
     margin-top: 50px;
+    margin-left: 10px;
+}
+.last-boxes{
+    font-family: 'Roboto', sans-serif;
+    text-align:left;
+    width: 30%;
+    float: left;
+    height: 25%;
+    margin-left:2.5%;
+    box-shadow: 5px 5px 20px lightgray;
+    border-radius: 10px;
+    padding:5px 5px;
+    padding-top:0px;
+    background-color:white;
+}
+#ques-part{
+    text-align:left;
+    font-size:  40px;
+    font-weight:700;
+    margin-left: 4%;
+}
+.questions{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.FAQ{
+    padding: 0px
+}
+footer p{
+    text-align: center;
+    font-size: 15px;
+    color: grey;
 }
